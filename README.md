@@ -1,7 +1,4 @@
-# docker-instal-docker.md
-
-
-
+# docker-install-docker.md
 
 To install Docker on Ubuntu 20.04, you can follow these steps:
 
